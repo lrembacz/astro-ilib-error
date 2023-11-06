@@ -1,0 +1,26 @@
+{
+  "name": "astro-site",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/react": "^3.0.4",
+    "@enact/core": "^4.7.6",
+    "@enact/i18n": "^4.7.6",
+    "@enact/sandstone": "^2.7.12",
+    "@enact/spotlight": "^4.7.6",
+    "@enact/ui": "^4.7.6",
+    "@types/react": "^18.2.35",
+    "@types/react-dom": "^18.2.14",
+    "astro": "^3.4.3",
+    "ilib": "^14.18.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
